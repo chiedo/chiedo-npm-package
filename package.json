@@ -1,6 +1,6 @@
 {
   "name": "chiedo",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Contact info for Chiedo",
   "main": "index.js",
   "scripts": {
